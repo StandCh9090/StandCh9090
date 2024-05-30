@@ -8,4 +8,5 @@ Please read the following points carefully before using the service.
 1. The copyright of the work belongs to StandCh9090, so please do not modify or reproduce the work.
 
 ２．作品をYouTube等で紹介される場合は、stand_9090.blog-ch@outlook.jpまでご連絡ください。
+
 2. If you would like to introduce your work on YouTube etc., please contact us at stand_9090.blog-ch@outlook.jp.
