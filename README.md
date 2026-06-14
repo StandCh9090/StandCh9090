@@ -3,7 +3,7 @@
 
 お問い合わせは、以下のリンクからお願いします。（外部ページへ移動します。）
 
-https://cf410638.cloudfree.jp/contact/
+https://stand.ndjp.net/contact/
 
 上記リンクに移動し、お名前(フルネームでお願いします。)、メールアドレス、お問い合わせ内容を入力の上送信してください。
 
@@ -16,7 +16,7 @@ I'm currently a working professional and I enjoy programming.
 
 Please use the following link to contact us. (This will take you to an external page.)
 
-https://cf410638.cloudfree.jp/contact/
+https://stand.ndjp.net/contact/
 
 Please go to the link above, enter your name (full name please), email address, and inquiry details, and then submit.
 
